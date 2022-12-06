@@ -1,0 +1,15 @@
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\obj\Debug\net6.0\Task_23_Homework3.csproj.AssemblyReference.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\obj\Debug\net6.0\Task_23_Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\obj\Debug\net6.0\Task_23_Homework3.AssemblyInfoInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\obj\Debug\net6.0\Task_23_Homework3.AssemblyInfo.cs
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\obj\Debug\net6.0\Task_23_Homework3.csproj.CoreCompileInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\bin\Debug\net6.0\Task_23_Homework3.exe
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\bin\Debug\net6.0\Task_23_Homework3.deps.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\bin\Debug\net6.0\Task_23_Homework3.runtimeconfig.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\bin\Debug\net6.0\Task_23_Homework3.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\bin\Debug\net6.0\Task_23_Homework3.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\obj\Debug\net6.0\Task_23_Homework3.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\obj\Debug\net6.0\refint\Task_23_Homework3.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\obj\Debug\net6.0\Task_23_Homework3.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\obj\Debug\net6.0\Task_23_Homework3.genruntimeconfig.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_3\Task_23_Homework3\obj\Debug\net6.0\ref\Task_23_Homework3.dll
