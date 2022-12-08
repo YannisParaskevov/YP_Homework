@@ -1,0 +1,15 @@
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\bin\Debug\net6.0\Task_29_Homework4.exe
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\bin\Debug\net6.0\Task_29_Homework4.deps.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\bin\Debug\net6.0\Task_29_Homework4.runtimeconfig.json
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\bin\Debug\net6.0\Task_29_Homework4.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\bin\Debug\net6.0\Task_29_Homework4.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\obj\Debug\net6.0\Task_29_Homework4.csproj.AssemblyReference.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\obj\Debug\net6.0\Task_29_Homework4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\obj\Debug\net6.0\Task_29_Homework4.AssemblyInfoInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\obj\Debug\net6.0\Task_29_Homework4.AssemblyInfo.cs
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\obj\Debug\net6.0\Task_29_Homework4.csproj.CoreCompileInputs.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\obj\Debug\net6.0\Task_29_Homework4.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\obj\Debug\net6.0\refint\Task_29_Homework4.dll
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\obj\Debug\net6.0\Task_29_Homework4.pdb
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\obj\Debug\net6.0\Task_29_Homework4.genruntimeconfig.cache
+C:\Users\skalv\Desktop\Geek Brains\учеба\03 Знакомство с языками программирования\практика\seminar_4\Task_29_Homework4\obj\Debug\net6.0\ref\Task_29_Homework4.dll
