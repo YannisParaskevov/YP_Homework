@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\skalv\\Desktop\\Geek Brains\\учеба\\03 Знакомство с языками программирования\\практика\\seminar_4\\Task_29_Homework4\\Task_29_Homework4.csproj",
+      "projectUniqueName": "C:\\Users\\skalv\\Desktop\\Geek Brains\\учеба\\03 Знакомство с языками программирования\\homework\\homework4_06dec22\\Task_29_Homework4\\Task_29_Homework4.csproj",
       "projectName": "Task_29_Homework4",
-      "projectPath": "C:\\Users\\skalv\\Desktop\\Geek Brains\\учеба\\03 Знакомство с языками программирования\\практика\\seminar_4\\Task_29_Homework4\\Task_29_Homework4.csproj",
+      "projectPath": "C:\\Users\\skalv\\Desktop\\Geek Brains\\учеба\\03 Знакомство с языками программирования\\homework\\homework4_06dec22\\Task_29_Homework4\\Task_29_Homework4.csproj",
       "packagesPath": "C:\\Users\\skalv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\skalv\\Desktop\\Geek Brains\\учеба\\03 Знакомство с языками программирования\\практика\\seminar_4\\Task_29_Homework4\\obj\\",
+      "outputPath": "C:\\Users\\skalv\\Desktop\\Geek Brains\\учеба\\03 Знакомство с языками программирования\\homework\\homework4_06dec22\\Task_29_Homework4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\skalv\\AppData\\Roaming\\NuGet\\NuGet.Config"
