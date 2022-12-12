@@ -16,7 +16,7 @@ double[] CrossPoint(double[] firstLine, double[] secondLine)
 {
     double[] result = new double[2];
     result[0] = (secondLine[1] - firstLine[1])/ (firstLine[0] - secondLine[0]);
-    if(result[0] == 0) result[0]=Math.Abs(result[0]);
+    if(result[0] == 0) result[0]=Math.Abs(result[0]); // например для прямых у=5х и у=9х выдавало координаты (-0;0) - для красоты поставил модуль 0..
     result[1] = result[0]*firstLine[0]+firstLine[1];
     if(result[1] == 0) result[1]=Math.Abs(result[1]);
     return result;
